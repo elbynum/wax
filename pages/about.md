@@ -4,6 +4,21 @@ title: What is Wax?
 permalink: /about/
 ---
 
+
+Lorem *ipsum dolor* ***amet*** raw denim **leggings** migas, 8-bit DIY flannel actually vegan skateboard chambray disrupt PBR&B yuccie kinfolk. Polaroid pour-over poutine, distillery activated charcoal iPhone tumeric meh palo santo. Pabst tumeric kombucha, health goth gochujang raw denim scenester. Jianbing artisan unicorn, tousled bitters chicharrones tattooed fanny pack [post-ironic.](https://github.com/elbynum)
+
+Chicharrones fanny pack knausgaard microdosing tousled hammock brooklyn vegan umami pickled polaroid tote bag chartreuse. Street art next level dreamcatcher, lomo chambray sustainable 8-bit banjo four loko intelligentsia echo park bespoke snackwave. Artisan kale chips brooklyn distillery vape. Bushwick live-edge aesthetic vinyl butcher, cliche man braid. Organic XOXO ennui, gentrify venmo succulents copper mug pug. Echo park iPhone shaman helvetica. Squid portland listicle cray YOLO cornhole.
+
+Plaid organic deep v roof party tilde gastropub craft beer tousled flexitarian kombucha yr etsy next level heirloom.[^6] Umami hashtag man bun seitan lumbersexual cray. Franzen umami occupy austin squid hexagon master cleanse bushwick retro mixtape meditation church-key gastropub. Cornhole succulents tousled man braid wayfarers retro fingerstache kickstarter raclette church-key bicycle rights celiac. Jean shorts kale chips cray, organic selfies health goth lo-fi raclette. Roof party flannel blog, messenger bag kale chips air plant brunch kickstarter. Gluten-free live-edge you probably haven't heard of them authentic synth air plant distillery VHS.
+
+[^6]: This is the footnote content bananas
+
+Freegan hot chicken pinterest cloud bread. Single-origin coffee vinyl salvia narwhal ethical. Woke artisan single-origin coffee before they sold out, blue bottle enamel pin succulents disrupt chartreuse cold-pressed photo booth bicycle rights yuccie. Live-edge glossier kinfolk intelligentsia, ennui lumbersexual church-key health goth vape af. Distillery chartreuse copper mug everyday carry truffaut waistcoat locavore prism kinfolk forage.
+
+Literally irony gastropub blog trust fund pop-up hoodie chambray scenester. Kale chips copper mug pour-over, tumeric fanny pack narwhal portland direct trade vexillologist neutra sustainable. Mixtape post-ironic normcore, chambray helvetica everyday carry brunch mlkshk artisan PBR&B cronut. Organic flexitarian umami distillery williamsburg activated charcoal next level hoodie irony.[^1]
+
+[^1]: another footnote
+
 **Wax helps you create digital exhibits.**   
 A digital exhibit is a collection of curated cultural artifacts—manuscripts, paintings, photographs, sculptures, etc—often accompanied by an explicit narrative or argument. Though Wax focuses on images and text, it could be used for sound or video collections with some customization.
 
